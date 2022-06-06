@@ -1,5 +1,5 @@
 # Forklift Fun
-Forklift Fun is a small game I made in 2017 using Unity. In this game, you play as a forklift operator in a warehouse, with the main objective being to deliver water tanks to a designated loading zone. Though small, the game is a complete package with gameplay mechanics, objectives, driving physics and audio. To play this game, you can download a build [here](https://drive.google.com/drive/folders/1t1hmGVzZbIq_E2GQWHAC4pCT9Omlcwio?usp=sharing).
+Forklift Fun is a small game I made in 2017 using Unity. In this game, you play as a forklift operator in a warehouse, with the main objective being to deliver water tanks to a designated loading zone. Though small, the game is a complete package with gameplay mechanics, objectives, driving physics and audio. To play this game, you can download a build [here](https://drive.google.com/drive/folders/1t1hmGVzZbIq_E2GQWHAC4pCT9Omlcwio?usp=sharing). To launch, simply run ForkliftFun.exe.
 
 ![Game](/Images/Game.PNG)
 
