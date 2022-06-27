@@ -170,7 +170,6 @@ public class RoundController : MonoBehaviour
     private const float PreRoundDuration = 5.0f;
     [SerializeField] private float preRoundCountdown = 0.0f;
     [SerializeField] private float roundTimer = 0.0f;
-
     [SerializeField] private int roundTimeSeconds = 0;
     [SerializeField] private int roundTimeMinutes = 0;
 
@@ -318,16 +317,16 @@ using UnityEngine;
 
 public class ForkliftDriveSound : MonoBehaviour
 {
+    [Header("Configuration")]
     [SerializeField] private AudioSource sound;
     [SerializeField] private Rigidbody vehicleBody;
-
     [SerializeField] private float MaxSpeed = 10.0f;
-
     [SerializeField] private float minPitch = 0.8f;
     [SerializeField] private float maxPitch = 1.2f;
     [SerializeField] private float minVolume = 0.1f;
     [SerializeField] private float maxVolume = 1.2f;
 
+    [Header("Runtime")]
     [SerializeField] private float speed;
     [SerializeField] private float normalizedSpeed;
 
